@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola soy Carlos 👋</h1>
+
+## Hola, soy Carlos 👋
 
 <!--
 **Carlos-alt-art/Carlos-alt-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
