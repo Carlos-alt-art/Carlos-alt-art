@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, I'm Carlos 👋</h1>
-  <p>If you'd like to connect, feel free to reach out on <a href="https://www.linkedin.com/in/carlos-gabriel-concepci%C3%B3n-b368b41b5/" target="_blank">LinkedIn</a>.</p>
+  <p>If you'd like to connect, feel free to reach out on <a href="https://www.linkedin.com/in/carlos-gabriel-concepcion/" target="_blank">LinkedIn</a>.</p>
 </div>
 <img src="/src/banner.png">
 
