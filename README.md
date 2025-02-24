@@ -42,8 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-alt-art&layout=compact&theme=dark)](https://github.com/Carlos-alt-art/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-alt-art&layout=compact&theme=dark" alt="Top Langs" />
+</div>
 ---
 
 <!--   <img src="https://raw.githubusercontent.com/Carlos-alt-art/Carlos-alt-art/output/snake.svg" alt="Snake animation"/> -->
