@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-alt-art&layout=compact&theme=dark" alt="Top Langs" />
 </div>
----
+
 
 <!--   <img src="https://raw.githubusercontent.com/Carlos-alt-art/Carlos-alt-art/output/snake.svg" alt="Snake animation"/> -->
 
