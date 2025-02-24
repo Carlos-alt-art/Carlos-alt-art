@@ -1,9 +1,8 @@
 <div align="center">
 <h1 align="center">Hello, I'm Carlos 👋</h1>
+  <p>If you'd like to connect, feel free to reach out on <a href="https://www.linkedin.com/in/carlos-gabriel-concepci%C3%B3n-b368b41b5/" target="_blank">LinkedIn</a>.</p>
 </div>
 <img src="/src/banner.png">
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -45,7 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-alt-art&layout=compact&theme=dark)](https://github.com/Carlos-alt-art/github-readme-stats)
 
-###
+---
 
 <!--   <img src="https://raw.githubusercontent.com/Carlos-alt-art/Carlos-alt-art/output/snake.svg" alt="Snake animation"/> -->
 
