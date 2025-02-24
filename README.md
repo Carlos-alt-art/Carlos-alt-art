@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Carlos-alt-art/Carlos-alt-art/output/snake.svg" alt="Snake animation"/>
+<!--   <img src="https://raw.githubusercontent.com/Carlos-alt-art/Carlos-alt-art/output/snake.svg" alt="Snake animation"/> -->
 
 
